@@ -1,0 +1,17 @@
+@media  (max-width:750px){
+    .weather-container{
+    width: 90%;
+    margin-top: 15%;
+}
+#city-input{
+    width: 100%;
+}
+#search-btn{
+    margin-top: 5px;
+    width: 100%;
+    font-size: 16px;
+}
+.loading{
+    top: 60%;
+}
+}
