@@ -25,7 +25,7 @@ A weather application built using HTML, CSS, and JavaScript that fetches weather
 
 ## 📸 Website Preview
 
-<!-- Add your website screenshot here later -->
+![Weather App Website Preview](Screenshot%202026-10-11%20203053.png)
 
 ## 🎯 Project Purpose
 
